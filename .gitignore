@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# virtual envs
+venv/
+.env/
+.env.* 
+
+# data & outputs
+data/
+logs/
+*.ckpt
+*.pt
+*.bin
+*.safetensors
+
+# notebooks
+.ipynb_checkpoints/
+
+# mac
+.DS_Store
+
+# editor
+.vscode/
+.idea/
