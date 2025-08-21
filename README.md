@@ -1,4 +1,4 @@
-# TinyLlama (≈1.1B) + LoRA (PEFT) — Local-First Fine-Tuning Proof-of-Concept
+# 🧠 TinyLlama + LoRA: Low-Resource Fine-Tuning Proof-of-Concept
 
 ## 🚀 TL;DR
 I fine-tuned **TinyLlama-1.1B-Chat** using **LoRA (PEFT)** on a low-resource setup.  
