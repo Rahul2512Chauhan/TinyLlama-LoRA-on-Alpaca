@@ -8,22 +8,6 @@ Using just a **Mac M2 (16GB RAM)** for smoke tests and **Google Colab T4** for a
 ➡️ With LoRA, we only train ~0.2% of parameters → training becomes **light, fast, and shareable**.
 
 ---
-
-## 📌 Table of Contents
-- [Model & Method](#model--method)
-- [Why This Project?](#why-this-project)
-- [Repo Structure](#repo-structure)
-- [What is LoRA (PEFT)?](#what-is-lora-peft)
-- [Data](#data)
-- [Training Setup](#training-setup)
-- [Hardware](#hardware)
-- [Results](#results)
-- [Examples](#examples)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
-
----
-
 ## 🧠 Model & Method
 - **Base model**: [TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)  
 - **Method**: LoRA (via 🤗 PEFT)  
