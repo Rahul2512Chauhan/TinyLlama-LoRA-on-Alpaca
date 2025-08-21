@@ -45,7 +45,7 @@ This project demonstrates **practical fine-tuning on modest hardware**.
 
 ---
 ```
-## 📂 Repo Structure:
+📂 Repo Structure:
 
 tinyllama-lora/
 │
@@ -150,7 +150,7 @@ Partial training statistics:
 
 Below is the **visual training loss curve** for this run:
 
-![Loss Curve](outputs/exp1/loss_curve.png)
+![Loss Curve](outputs/loss_curve.png)
 
 ✅ Observations:
 - Loss steadily decreases over training steps.
@@ -233,9 +233,6 @@ Flow of this project (from raw data → LoRA adapters → evaluation):
 
 ![LoRA Flow](docs/diagrams/lora_flow.png)
 
-Loss curve during training:
-
-![Loss Curve](outputs/exp1/loss_curve.png)
 
 ---
 
